@@ -10,7 +10,7 @@ git branch
 checkout ไป branch ใหม่
 สร้าง ไฟล์ .txt
 แก้ไข ไฟล์ .txt
-upload file ขึ้น branch ใหม่
+upload file ขึ้น branch ใหม่ git push -u origin develop
 สลับกลับมา master
 ดูการเปลี่ยนแปลงที่เกิดขึ้น
                                 ลองทำแล้ว

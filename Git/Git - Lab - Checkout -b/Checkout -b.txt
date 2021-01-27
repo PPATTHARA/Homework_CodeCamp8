@@ -17,7 +17,7 @@ upload file ขึ้น branch ใหม่ git push -u origin develop
 ลบ branch ด้วย
 git branch -d branch_name
 ลอง ใช้คำสั่ง git checkout -b branch_name
-สร้างไฟล์ .txt upload
+สร้างไฟล์ .txt upload ใหม่ git push -u origin feature1.0
 สลับมา master
 ดูการเปลี่ยนแปลง
                                 ลองทำแล้ว

@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 Hi
 Hello
 How are you?
 I'm fine
-=======
 Good morning
 
 Good afternoon
 
 Good evening
->>>>>>> main

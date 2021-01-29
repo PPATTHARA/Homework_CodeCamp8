@@ -1,0 +1,5 @@
+*.html
+
+/Ignore - Node Module
+
+Node module.*
